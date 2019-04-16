@@ -1,12 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "vocal-fever",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Blog by vocafeuvre. Just about everything that interests the author.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "author": "vocafeuvre",
   "dependencies": {
     "gatsby": "^2.3.16",
     "gatsby-image": "^2.0.37",

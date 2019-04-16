@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `Vocal Fever`,
+    author: `vocafeuvre`,
+    description: `Blog by vocafeuvre. Just about everything that interests the author.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `vocafeuvre`,
     },
   },
   plugins: [
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Vocal Fever`,
+        short_name: `vocafeuvre`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
