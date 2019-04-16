@@ -3,7 +3,7 @@ module.exports = {
     title: `Vocal Fever`,
     author: `vocafeuvre`,
     description: `Blog by vocafeuvre. Just about everything that interests the author.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://vocalfever.netlify.com/`,
     social: {
       twitter: `vocafeuvre`,
     },
