@@ -22,6 +22,6 @@ To end my first post, I'd like to borrow the words of the guy whose gatsby start
 
 > I'm sure I'll write a lot more interesting things in the future.
 
-Thanks very much to Kyle Matthews for this awesome Gatsby blog template! And for Gatsby too!
+Thanks very much to Kyle Mathews for this awesome Gatsby blog template! And for Gatsby too!
 
 
