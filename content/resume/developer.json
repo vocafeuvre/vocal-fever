@@ -1,0 +1,101 @@
+{
+    "name": "Ralph Villanueva",
+    "jobTitle": "Software Developer",
+    "description": "Software developer, with interests in web and mobile development. Currently based in the Philippines, though aspiring to shift to a nomad lifestyle. Have 2 years of professional development, doing primarily web stuff. Most familiar with JAM and LAMP; however, would love to dabble in new tech stacks. Done work in Windows, OSX, and Linux. Have had interacted directly with clients. Comfortable doing projects both with teams, and without. Would much prefer working in Agile and TDD.",
+    "personalInfo": [
+        {
+            "label": "Address",
+            "value": "14-8, V&G Subdivision, Nangka, Consolacion, Cebu, Philippines, 6001"
+        },
+        {
+            "label": "E-mail",
+            "value": "hirafura96@gmail.com"
+        },
+        {
+            "label": "Linked In",
+            "value": "linkedin.com/ralph-villanueva-44ba80185",
+            "link": "https://www.linkedin.com/in/ralph-villanueva-44ba80185/"
+        },
+        {
+            "label": "Github",
+            "value": "vocafeuvre",
+            "link": "https://github.com/vocafeuvre"
+        }
+    ],
+    "skills": [
+        {
+            "skill": "HTML/CSS",
+            "rating": "7 out of 10"
+        },
+        {
+            "skill": "Javascript",
+            "rating": "6 out of 10"
+        },
+        {
+            "skill": "React",
+            "rating": "7 out of 10"
+        },
+        {
+            "skill": "SlimPHP",
+            "rating": "7 out of 10"
+        },
+        {
+            "skill": "Laravel",
+            "rating": "7 out of 10"
+        },
+        {
+            "skill": "Webpack",
+            "rating": "5 out of 10"
+        },
+        {
+            "skill": "MySQL",
+            "rating": "8 out of 10"
+        }
+    ],
+    "hobbies": [
+        {
+            "hobby": "Reading",
+            "description": "Both print and web. Loves manga"
+        },
+        {
+            "hobby": "Food",
+            "description": "Cooking and eating. Except ketchup"
+        },
+        {
+            "hobby": "Travel",
+            "description": "Destinations in mind: France, America"
+        }
+    ],
+    "workExperience": [
+        {
+            "period": "May 2017 - present",
+            "company": "Alliance Software Inc.",
+            "roles": "Software Engineer, Associate Software Engineer",
+            "description": "Assigned to over three projects, with work spanning from ground-up development to enhancement and production support. Technologies learned and used were PHP, Drupal, MySQL, SlimPHP, Laravel, and a bit of AngularJS. Most memorable thing about this experience was encountering 6k+ LOC in a couple of stored procedures."
+        },
+        {
+            "period": "April 2016 - December 2016",
+            "company": "NCR",
+            "roles": "Intern",
+            "description": "Supported test engineers by maintaining their automated testing tool which was a script written in WinRunner."
+        }
+    ],
+    "education": [
+        {
+            "period": "2013 - 2017",
+            "school": "University of Cebu Banilad",
+            "degree": "Bachelor of Science, Information Technology",
+            "description": "Learned the fundamentals of software development. Languages learned were C, Java, and PHP. Also taught were database design, data structures, information systems, SDLC, and graphic design using Photoshop. Had a course where we created a game using Flash. Capstone project was about an automated forest monitoring system which had an Android app interacting with an IoT network using Bluetooth Smart. Project was made from scratch."
+        }
+    ],
+    "goals": [
+        "Shift to a working nomad lifestyle, while based on a condo in Cebu",
+        "Have 5+ years experience in React, Golang and Python",
+        "Dabble in machine learning and create my own JARVIS",
+        "Earn 2k stars in Github, and create two dozen repositories",
+        "Work with highly capable people on an interesting and challenging project",
+        "Open a food stall and franchise a food chain",
+        "Have my own farm, powered by IoT, preferably in a highland place",
+        "Earn my first million in the stock market, doing position trading"
+    ]
+}
