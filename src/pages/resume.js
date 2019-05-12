@@ -7,7 +7,7 @@ import Helmet from "react-helmet"
 
 export const pageQuery = graphql`
     query {
-        resumePic: file(absolutePath: { regex: "/profile.jpg/" }) {
+        resumePic: file(absolutePath: { regex: "/resumepic.jpg/" }) {
             childImageSharp {
                 fixed(width: 150, height: 150) {
                     ...GatsbyImageSharpFixed
@@ -111,21 +111,19 @@ export default props => {
                 </StrikerItem>
               )}
             </StrikerSection>
-            <StrikerSection>
+            <StrikerSection
+              css={css`
+                display: flex;
+                flex-wrap: wrap;
+              `}>
               <StrikerHeader>Skills</StrikerHeader>
               {devResume.skills !== undefined ? (
                 devResume.skills.map((value, index) => {
                   return (
                     <StrikerItem
-                      css={css`
-                        display: flex;
-                        align-items: center;
-                        justify-content: space-between;
-                      `}
                       key={index}
                     >
                       <StrikerItemLabel>{value.skill}</StrikerItemLabel>
-                      <StrikerItemContent>{value.rating}</StrikerItemContent>
                     </StrikerItem>
                   )
                 })
@@ -191,7 +189,7 @@ export default props => {
                 : null}
             </Detail>
             <Detail>
-              <DetailHeader>Life Goals</DetailHeader>
+              <DetailHeader>Seminars</DetailHeader>
               <DetailList>
                 {devResume.goals
                   ? devResume.goals.map((value, index) => {
